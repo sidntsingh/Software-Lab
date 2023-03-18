@@ -1,0 +1,90 @@
+commit c9fbc18a48bcf7fb9cb6ab5ed79aab5571693cfe
+Author: sidntsingh <sidsidhant1234@gmail.com>
+Date:   Sat Mar 18 20:08:28 2023 +0530
+
+    Readding file2
+
+diff --git a/file2 b/file2
+new file mode 100644
+index 0000000..7e95c0d
+--- /dev/null
++++ b/file2
+@@ -0,0 +1 @@
++2025 Software Developer
+
+commit 5c5c2f1b5129cb96cc4749cf06c17849c174637f
+Author: sidntsingh <sidsidhant1234@gmail.com>
+Date:   Sat Mar 18 20:01:12 2023 +0530
+
+    Deleting file2
+
+diff --git a/file1 b/file1
+index 828ecf3..8c4c570 100644
+--- a/file1
++++ b/file1
+@@ -1 +1,2 @@
+ Sidhant Singh Cse KFC Vinland
++red
+diff --git a/file2 b/file2
+deleted file mode 100644
+index 7e95c0d..0000000
+--- a/file2
++++ /dev/null
+@@ -1 +0,0 @@
+-2025 Software Developer
+
+commit 400dc50dd5f36f7a7a008bb0702d858be91b1ea8
+Author: sidntsingh <sidsidhant1234@gmail.com>
+Date:   Sat Mar 18 19:51:44 2023 +0530
+
+    Committing a new file with graduation year and post
+
+diff --git a/file2 b/file2
+new file mode 100644
+index 0000000..7e95c0d
+--- /dev/null
++++ b/file2
+@@ -0,0 +1 @@
++2025 Software Developer
+
+commit e423137b4e4063a073dd5e87854ec6afb059af87
+Author: sidntsingh <sidsidhant1234@gmail.com>
+Date:   Sat Mar 18 19:30:55 2023 +0530
+
+    Added favorite restaurant and movie
+
+diff --git a/file1 b/file1
+index 8411b9d..828ecf3 100644
+--- a/file1
++++ b/file1
+@@ -1 +1 @@
+-Sidhant Singh Cse
++Sidhant Singh Cse KFC Vinland
+
+commit 5635719572895ba0d2744cf049bc21dc55eacfca
+Author: sidntsingh <sidsidhant1234@gmail.com>
+Date:   Sat Mar 18 19:26:16 2023 +0530
+
+    Now has my major
+
+diff --git a/file1 b/file1
+index 8c91182..8411b9d 100644
+--- a/file1
++++ b/file1
+@@ -1 +1 @@
+-Sidhant Singh 27098
++Sidhant Singh Cse
+
+commit 0acfe756e48f1022e8fe6130be4f716cd2342531
+Author: sidntsingh <sidsidhant1234@gmail.com>
+Date:   Sat Mar 18 19:11:33 2023 +0530
+
+    Committing a new file with my name
+
+diff --git a/file1 b/file1
+new file mode 100644
+index 0000000..8c91182
+--- /dev/null
++++ b/file1
+@@ -0,0 +1 @@
++Sidhant Singh 27098
